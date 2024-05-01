@@ -40,7 +40,8 @@ Este espacio sin ánimo de lucro tiene como objetivo preservar la historia del j
 * Alkon Online: https://alkononline.com.ar/
 * Argentum Online (AO20): https://www.ao20.com.ar/
 
-**Repositorios oficiales**
+**Repositorios oficiales:**
+
 Uno de los objetivos de Comunidad Winter es que sirva como backup de todas las libreaciones hechas por la comunidad. Algunos de los repositorios que podrás encontrar en Comunidad Winter son Fork de sus repositorios oficiales.
 Es por ello que recomendamos visitar el repositorio oficial del proyecto para asegurarte de que estas usando las ultimas versiones. Especialmente los siguientes repositorios:
 
