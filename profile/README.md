@@ -48,6 +48,7 @@ Es por ello que recomendamos visitar el repositorio oficial del proyecto para as
 * Argentum Online (AO20): https://github.com/ao-org
 * AOLibre: https://github.com/ao-libre
 * Alkon Online (Antiguo Argentum Online): https://github.com/argentumonline
+* Argentum Online Source Forge (repositorio clasico de AO): https://sourceforge.net/projects/morgoao/
 
 **Recuerda:**
 
