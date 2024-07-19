@@ -42,7 +42,7 @@ Este espacio sin ánimo de lucro tiene como objetivo preservar la historia del j
 
 **Repositorios oficiales:**
 
-Uno de los objetivos de Comunidad Winter es que sirva como backup de todas las libreaciones hechas por la comunidad. Algunos de los repositorios que podrás encontrar en Comunidad Winter son Fork de sus repositorios oficiales.
+Uno de los objetivos de Comunidad Winter es que sirva como backup de todas las liberaciones hechas por la comunidad. Algunos de los repositorios que podrás encontrar en Comunidad Winter son Fork de sus repositorios oficiales.
 Es por ello que recomendamos visitar el repositorio oficial del proyecto para asegurarte de que estas usando las ultimas versiones. Especialmente los siguientes repositorios:
 
 * Argentum Online (AO20): https://github.com/ao-org
