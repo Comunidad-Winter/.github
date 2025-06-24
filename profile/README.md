@@ -1,60 +1,85 @@
-## Repositorio global de Argentum Online
+# 📦 Comunidad Winter – Repositorio Global de Argentum Online
 
-<img src="https://i.imgur.com/qFJ6EoN.png"></img>
+<p align="center">
+  <img src="https://i.imgur.com/yEHH8KU.png" alt="Comunidad Winter" width="450"/>
+</p>
 
 **¡Bienvenido al repositorio global de Argentum Online!**
 
-Este espacio sin ánimo de lucro tiene como objetivo preservar la historia del juego Argentum Online, reuniendo en un solo lugar todas las liberaciones de sus proyectos, mods, herramientas y otros recursos.
+Este espacio sin ánimo de lucro tiene como objetivo preservar la historia del juego **Argentum Online**, reuniendo en un solo lugar todas las liberaciones públicas de sus proyectos, mods, herramientas y recursos derivados.
 
-**Contenido:**
+---
 
-* **Liberaciones de proyectos:** Encuentra aquí las diferentes versiones de los proyectos de Argentum Online, incluyendo:
-    * Cliente del juego
-    * Servidor
-    * Mapas
-    * Graficos
-    * Herramientas
-    * Recursos adicionales
+## 📁 Contenido
 
-* **Distintos branches:** Algunos repositorios publicados ofrecen diferentes branches donde puedes encontrar las distintas versiones del proyecto.
+Aquí encontrarás una amplia variedad de material:
 
-**Navegando por el repositorio:**
+- 🧩 Clientes del juego
+- 🖥️ Servidores
+- 🗺️ Mapas
+- 🎨 Gráficos
+- 🛠️ Herramientas de desarrollo
+- 📚 Recursos adicionales
 
-* **Explora por proyecto:** Cada proyecto tiene su propio directorio dentro del repositorio.
-* **Filtra por versión:** Usa la función de búsqueda de GitHub para encontrar el recurso específico que necesitas.
-* **Descarga archivos:** Descarga las releases o clona los repositorios para acceder a los archivos del proyecto.
+---
 
-**Contribuye:**
+## 🌳 Branches y versiones
 
-¿Te apasiona Argentum Online y quieres colaborar con la comunidad? ¡Puedes hacerlo de varias maneras!
+Algunos repositorios cuentan con diferentes **branches** para organizar versiones anteriores o variantes del mismo proyecto. Revisa las ramas disponibles o el historial para encontrar la versión que necesitas.
 
-* **Reporta bugs:** ¿Has encontrado un error en un proyecto? Repórtalo en el issue tracker del repositorio correspondiente.
-* **Sugiere mejoras:** ¿Tienes ideas para mejorar el proyecto? Comparte tus sugerencias en el issue tracker o en el foro de la comunidad.
-* **Comparte tu conocimiento:** ¿Eres un experto en Argentum Online? Comparte tus conocimientos con la comunidad creando tutoriales, guías o wikis.
+---
 
-<img src="https://i.imgur.com/zpWmR4l.png"></img>
+## 🧭 ¿Cómo navegar por el repositorio?
 
-**Enlaces de interés:**
-* Foro de desarrollo de la comunidad: http://gs-zone.org
-* AOLibre: https://argentumonline.org/
-* Alkon Online: https://alkononline.com.ar/
-* Argentum Online (AO20): https://www.ao20.com.ar/
+- **Por proyecto**: cada uno tiene su propio directorio independiente.
+- **Por versión**: puedes usar la búsqueda de GitHub para localizar un archivo, herramienta o gráfico concreto.
+- **Descargas**: puedes clonar los repositorios o usar la pestaña de *releases* si está disponible.
 
-**Repositorios oficiales:**
+---
 
-Uno de los objetivos de Comunidad Winter es que sirva como backup de todas las liberaciones hechas por la comunidad. Algunos de los repositorios que podrás encontrar en Comunidad Winter son Fork de sus repositorios oficiales.
-Es por ello que recomendamos visitar el repositorio oficial del proyecto para asegurarte de que estas usando las ultimas versiones. Especialmente los siguientes repositorios:
+## 🤝 Cómo contribuir
 
-* Argentum Online (AO20): https://github.com/ao-org
-* AOLibre: https://github.com/ao-libre
-* Alkon Online (Antiguo Argentum Online): https://github.com/argentumonline
-* Argentum Online Source Forge (repositorio clasico de AO): https://sourceforge.net/projects/morgoao/
+¿Te apasiona Argentum Online y quieres colaborar? ¡Estás más que invitado!
 
-**Recuerda:**
+- 📌 **Reporta errores**: usa el *issue tracker* del repositorio correspondiente.
+- 💡 **Sugiere mejoras**: deja tus ideas en los issues o en los foros de la comunidad.
+- 📖 **Comparte tu conocimiento**: crea guías, tutoriales o documentación para ayudar a otros.
 
-* Este repositorio es un proyecto sin ánimo de lucro.
-* El contenido de este repositorio se publica bajo licencias de código abierto.
-* Alguno de los repositorios podrían estar incompletos, se agradece la colaboración de todo aquel que pueda ayudar a completarlos.
-* Se agradece el respeto y la colaboración de todos los miembros de la comunidad.
+<p align="center">
+  <img src="https://i.imgur.com/zpWmR4l.png" alt="Banner Comunidad Winter" />
+</p>
 
-**¡Esperamos que este repositorio te sea útil!**
+---
+
+## 🔗 Enlaces de interés
+
+- 🧠 Foro GS-Zone (histórico): http://gs-zone.org  
+- 🧊 AO Libre: https://argentumonline.org/  
+- 🔥 Alkon Online: https://alkononline.com.ar/  
+- 🌐 Argentum Online (AO20): https://www.ao20.com.ar/  
+- ❄️ **Winter AO** (repositorios oficiales del proyecto): https://github.com/orgs/WinterAO/repositories
+
+---
+
+## 📌 Repositorios oficiales relacionados
+
+Comunidad Winter actúa también como respaldo de muchos de los proyectos liberados públicamente, pero **te recomendamos siempre consultar los repositorios oficiales** para encontrar la versión más actualizada:
+
+- [AO20](https://github.com/ao-org)
+- [AO Libre](https://github.com/ao-libre)
+- [Alkon / AO Clásico](https://github.com/argentumonline)
+- [Winter AO](https://github.com/orgs/WinterAO/repositories)
+- [SourceForge AO clásico](https://sourceforge.net/projects/morgoao/)
+
+---
+
+## 📜 Consideraciones
+
+- Este proyecto es completamente **sin ánimo de lucro**.
+- Todo el contenido compartido se publica bajo licencias de código abierto o uso comunitario.
+- Algunos repositorios pueden estar incompletos: ¡tu ayuda es bienvenida!
+- Respeto y colaboración son fundamentales para mantener esta iniciativa viva.
+
+---
+
+**🙏 Gracias por ser parte de la comunidad. Esperamos que este repositorio te sea útil y te anime a mantener vivo el legado de Argentum Online.**
